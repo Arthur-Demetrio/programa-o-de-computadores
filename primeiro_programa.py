@@ -1,0 +1,8 @@
+print("qual é o seu nome?")
+nome=input()
+print(" olá", nome",", " esse é o endereço e formas de contato do IFRN Natal Central")
+print("Avenida Senador Salgado Filho, 1559,")
+print("Tirol, Natal-RN, Brasil")
+print("CEP: 59015-000")
+print("e-mail: ccs.cnat@ifrn.edu.br")
+print("telefone: 4005-2600")
